@@ -1,6 +1,11 @@
 .box-img {
     width: 100vw;
+    background-color: #6278F7;
     display: flex;
     justify-content: center;
     margin-bottom: 36px;
+}
+
+.box-img img {
+    max-width: 100%;
 }

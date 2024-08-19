@@ -1,15 +1,23 @@
 .box-form {
     display: flex;
     justify-content: center;
+    padding: 40px 0;
 }
 
 .box-form form {
-    display: flex;
+    display: block;
     flex-direction: column;
-    width: 1121px;
-    height: 789px;
+    width: 50%;
     background-color: #F6F6F6;
     border-radius: 20px;
-    padding: 4px;
-    align-items: center;
+    padding: 24px 0;
+}
+
+.box-form h3 {
+    margin: 0;
+    padding: 14px 36px;
+    font-family: Prata;
+    font-size: 32px;
+    font-weight: normal;
+    color: #212121;
 }

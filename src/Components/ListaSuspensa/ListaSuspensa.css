@@ -1,17 +1,17 @@
-.box-inputs {
+.lista-suspensa {
     display: flex;
     flex-direction: column;
     padding: 14px 36px;
-    font-family: sans-serif;
 }
 
-.box-inputs label {
+.lista-suspensa label {
     padding: 4px 0;
     font-size: 18px;
+    font-family: Montserrat;
     font-weight: 500;
 }
 
-.box-inputs input {
+.lista-suspensa select {
     background-color: #fff;
     border: 0;
     height: 80px;
